@@ -4,7 +4,7 @@ export const btnValues = [
 		class: "operator",
 	},
 	{
-		src: "../public/delete.svg",
+		src: "./public/delete.svg",
 		display: "delete",
 		class: "operator",
 	},
