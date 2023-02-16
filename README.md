@@ -4,7 +4,7 @@ Simple calculator with basic functions
 
 Build with React.js
 
-- [] test
+- [ ] test
 - [x] test
  
 https://calculator-9yfs.onrender.com/
